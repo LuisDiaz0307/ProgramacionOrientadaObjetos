@@ -1,0 +1,10 @@
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.csprojAssemblyReference.cache
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.Form1.resources
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.Properties.Resources.resources
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.csproj.GenerateResource.cache
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.csproj.CoreCompileInputs.cache
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\bin\Debug\GloboConPropiedades.exe.config
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\bin\Debug\GloboConPropiedades.exe
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\bin\Debug\GloboConPropiedades.pdb
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.exe
+C:\Users\Gris\source\repos\GloboConPropiedades\GloboConPropiedades\obj\Debug\GloboConPropiedades.pdb
