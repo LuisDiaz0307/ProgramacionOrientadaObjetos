@@ -1,0 +1,10 @@
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.csprojAssemblyReference.cache
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.Form1.resources
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.Properties.Resources.resources
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.csproj.GenerateResource.cache
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.csproj.CoreCompileInputs.cache
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\bin\Debug\SistemadeControl.exe.config
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\bin\Debug\SistemadeControl.exe
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\bin\Debug\SistemadeControl.pdb
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.exe
+C:\Users\Gris\source\repos\SistemadeControl\SistemadeControl\obj\Debug\SistemadeControl.pdb

@@ -1,0 +1,10 @@
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\bin\Debug\LoginArreglos.exe.config
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\bin\Debug\LoginArreglos.exe
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\bin\Debug\LoginArreglos.pdb
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.csprojAssemblyReference.cache
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.Form1.resources
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.Properties.Resources.resources
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.csproj.GenerateResource.cache
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.exe
+C:\Users\Gris\source\repos\LoginArreglos\LoginArreglos\obj\Debug\LoginArreglos.pdb
