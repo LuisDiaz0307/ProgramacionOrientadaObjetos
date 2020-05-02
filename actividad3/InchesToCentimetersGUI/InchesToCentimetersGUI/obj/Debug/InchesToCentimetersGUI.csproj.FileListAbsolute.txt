@@ -1,0 +1,10 @@
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe.config
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.exe
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\bin\Debug\InchesToCentimetersGUI.pdb
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csprojAssemblyReference.cache
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Form1.resources
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.Properties.Resources.resources
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.GenerateResource.cache
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.csproj.CoreCompileInputs.cache
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.exe
+C:\Users\Palladium\source\repos\InchesToCentimetersGUI\InchesToCentimetersGUI\obj\Debug\InchesToCentimetersGUI.pdb

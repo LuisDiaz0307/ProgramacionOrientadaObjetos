@@ -1,0 +1,10 @@
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe.config
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.exe
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\bin\Debug\MoveEstimatorGUI.pdb
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csprojAssemblyReference.cache
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Form1.resources
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.Properties.Resources.resources
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.GenerateResource.cache
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.exe
+C:\Users\Palladium\source\repos\MoveEstimatorGUI\MoveEstimatorGUI\obj\Debug\MoveEstimatorGUI.pdb
